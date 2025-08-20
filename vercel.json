@@ -22,7 +22,7 @@
     { "source": "/tourismhospitality.html", "destination": "/tourism-hospitality", "permanent": true },
     { "source": "/airticketing.html", "destination": "/air-ticketing", "permanent": true },
     { "source": "/airportoperation.html", "destination": "/airport-operations", "permanent": true },
-    { "source": "/personalitydevelopment.html", "destination": "/personality-development", "permanent": true }
+    { "source": "/personalitydevelopment.html", "destination": "/personality-development", "permanent": true },
     { "source": "/courses.html", "destination": "/courses", "permanent": true }
     
 
